@@ -12,7 +12,7 @@ const mockupPath = '/img/mockup.png'
 
 <template>
   <!-- Main container forced to light mode with blue-gray background -->
-  <div class="min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans antialiased">
+  <div class="min-h-screen flex flex-col bg-slate-50 text-slate-900 font-sans antialiased overflow-x-hidden">
     
     <!-- Navigation Bar -->
     <nav class="w-full py-6 px-6 md:px-0 z-10">
