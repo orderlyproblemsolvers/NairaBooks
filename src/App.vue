@@ -41,7 +41,7 @@ const mockupPath = '/img/mockup.png'
           <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-none tracking-tight mb-6 text-slate-900">
             The simple way to <br class="hidden lg:block" />
             <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-cyan-500">
-              manage your Naira.
+              manage your money.
             </span>
           </h1>
 
