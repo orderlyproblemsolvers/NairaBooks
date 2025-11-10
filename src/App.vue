@@ -112,6 +112,6 @@ const mockupPath = '/img/mockup.png'
 
 body {
   font-family: 'Inter', sans-serif;
-  @apply bg-slate-50; /* Ensure body matches main container */
+ /* Ensure body matches main container */
 }
 </style>
