@@ -1,6 +1,6 @@
 <script setup>
 const logoPath = '/img/logo.png'
-const lastUpdated = 'March 2025'
+const lastUpdated = 'March 2026'
 </script>
 
 <template>
