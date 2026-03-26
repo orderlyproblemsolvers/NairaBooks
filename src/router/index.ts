@@ -5,15 +5,15 @@ const router = createRouter({
   routes: [
     {
       path: '/',
-      component: () => import('../views/home.vue'), // ✅ FIXED
+      component: () => import('../views/Home.vue'), // ✅ FIXED
     },
     {
       path: '/terms',
-      component: () => import('../views/terms.vue'),
+      component: () => import('../views/Terms.vue'),
     },
     {
       path: '/privacy',
-      component: () => import('../views/privacy.vue'),
+      component: () => import('../views/Privacy.vue'),
     },
     {
       path: '/:pathMatch(.*)*',
